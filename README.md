@@ -45,12 +45,15 @@ lsp激活插件到/data/misc/即可看到类型的目录
 运行main.py后，可浏览器打开[`http://127.0.0.1:1000/`](http://127.0.0.1:1000/)运行测试
 
 默认端口情况下
+
 ![image](https://github.com/Zero1yi/fundex2-cloud-unpacker/blob/main/img/1.png)
-代码使用ai进行注解
+
+代码使用了ai进行注解
 
 上传格式 包名.apk 其他方式实现需要自己修改
 
 ![image](https://github.com/Zero1yi/fundex2-cloud-unpacker/blob/main/img/3.png)
+
 tk.py中time.sleep(60)我不知道他是否有结束标志经过测试基本60s都可以完成(和手机性能有关系）具体自己修改或者研究一下
 
 ![image](https://github.com/Zero1yi/fundex2-cloud-unpacker/blob/main/img/4.png)
